@@ -1,0 +1,10 @@
+com/ITCollaboration/ITCollaboration/entity/RepositoryTemp.java
+ com.ITCollaboration.ITCollaboration.entity.RepositoryTemp
+com/ITCollaboration/ITCollaboration/entity/TempEntity.java
+ com.ITCollaboration.ITCollaboration.entity.TempEntity
+com/ITCollaboration/ITCollaboration/handlingformsubmission/Greeting.java
+ com.ITCollaboration.ITCollaboration.handlingformsubmission.Greeting
+com/ITCollaboration/ITCollaboration/controller/RegController.java
+ com.ITCollaboration.ITCollaboration.controller.RegController
+com/ITCollaboration/ITCollaboration/ItCollaborationApplication.java
+ com.ITCollaboration.ITCollaboration.ItCollaborationApplication
